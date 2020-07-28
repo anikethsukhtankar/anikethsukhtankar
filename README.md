@@ -13,15 +13,15 @@
 <br />
 <br />
 
-Hi there, I'm **Aniketh Sukhtankar**, a **Software Engineer** ( Currently working at Salesforce in San Francisco 🌍 ). I am a **Computer Science Masters student** 🚀 from University of Florida, currently, I am working on creating a platform for Salesforce Admins to measure performance metrics 👨🏽‍💼. I am Passionate about my work and always eager to connect with other people.
+Hi there, I'm **Aniketh Sukhtankar**, a **Software Engineer** (working at Salesforce in San Francisco 🌍). I am a **Computer Science Masters student** 🚀 from University of Florida. I am currently working on creating a platform for Salesforce Admins to measure performance metrics 👨🏽‍💼. I am Passionate about my work and always eager to connect with other people.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently a Backend Software Engineer with [Salesforce](https://www.salesforce.com/) working on Salesforce Optimizer;
-- 🌱 I’m currently learning Design Patterns taught by this guy -> [Design Patterns](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc); 
-- 🤔 My interests are with Algorithms/Data Structures, Software Architecture, Clean Code, etc..;
+- 👨🏽‍💻 I am a Backend Software Engineer with [Salesforce](https://www.salesforce.com/) working on Salesforce Optimizer;
+- 🌱 I am currently learning Design Patterns taught by this guy -> [Design Patterns](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc); 
+- 🤔 My interests are with Algorithms/Data Structures, Software Architecture, Clean Code, Quantitative Analysis etc..;
 - 💼 I have a Master's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via iamaniketh@gmail.com to reach me.
