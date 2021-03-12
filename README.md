@@ -13,13 +13,13 @@
 <br />
 <br />
 
-Hi there, I'm **Aniketh Sukhtankar**, a **Software Engineer** working at Salesforce in San Francisco 🌍. I am a **Computer Science Masters student** 🚀  from University of Florida. I am currently working on creating a platform for Salesforce Admins to measure performance metrics 👨🏽‍💼. I am Passionate about my work and always eager to connect with other people.
+Hi there, I'm **Aniketh Sukhtankar**, a **Software Engineer** working at Amazon in San Francisco 🌍. I am a **Computer Science Masters student** 🚀  from University of Florida. I am currently working on a new shopping experience for our customers under the physical stores division at Amazon 👨🏽‍💼. I am Passionate about my work and always eager to connect with other people.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I am a Backend Software Engineer with [Salesforce](https://www.salesforce.com/) working on Salesforce Optimizer;
+- 👨🏽‍💻 I am a Backend Software Engineer with [Amazon](https://www.amazon.com/) working on something fun;
 - 🌱 I am currently learning Design Patterns taught by this guy -> [Design Patterns](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc); 
 - 🤔 My interests are with Algorithms/Data Structures, Software Architecture, Clean Code, Quantitative Analysis etc..;
 - 💼 I have a Master's degree in Computer Science;
